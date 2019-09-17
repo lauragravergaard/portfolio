@@ -1,0 +1,22 @@
+ /*
+ Theme Name:   oceanwp Child theme
+ Theme URI:    http://example.com/oceanwp.child/
+ Description:  oceanwp Child Theme
+ Author:       Laura
+ Author URI:   http://lauragravergaard.dk
+ Template:     oceanwp
+ Version:      1.7.1
+ License:      GNU General Public License v2 or later
+ License URI:  https://oceanwp.org/demos/
+ Tags:         two-columns, right-sidebar, footer-widgets, blog, news, custom-background, custom-menu, post-formats, rtl-language-support, sticky-post, editor-style, threaded-comments,       translation-ready, buddypress, custom-colors, featured-images, full-width-template, theme-options, e-commerce
+ Text Domain:  oceanwpchild
+*/
+
+
+.sticky {
+  position: fixed !important;
+  top: 0 !important;
+  width: 100% !important;
+  padding-top: 3% !important;
+}
+
