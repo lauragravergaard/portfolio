@@ -20,3 +20,7 @@
   padding-top: 3% !important;
 }
 
+
+.elementor-369 .elementor-element.elementor-element-3fd1cb1b:not(.elementor-motion-effects-element-type-background), .elementor-369 .elementor-element.elementor-element-3fd1cb1b > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    opacity: 0.7;
+}
